@@ -7,4 +7,5 @@ function printerError(s) {
   return `${strError}/${strLength}`;
 }
 
+
 console.log(printerError("aaabbbbhaijjjm")); // "0/14"
